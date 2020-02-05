@@ -2435,7 +2435,7 @@
         <name>WorkCalibrationUser</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewUserPII</name>
-    </userPermissions>
+    <enabled>false</enabled>
+    <name>ViewUserPII</name>
+</userPermissions>
 </Profile>
